@@ -16,7 +16,7 @@
     ],
     "version": 10,
     "internalName": "FaselHDProvider",
-    "url": "https://github.com/med1245/Arabica/blob/build/build/FaselHDProvider.cs3",
+    "url": "https://github.com/med1245/Arabica/blob/main/build/FaselHDProvider.cs3",
     "name": "FaselHDProvider"
 },
 {
@@ -36,7 +36,7 @@
     ],
     "version": 11,
     "internalName": "MyCimaProvider",
-    "url": "https://github.com/med1245/Arabica/blob/build/build/MyCimaProvider.cs3",
+    "url": "https://github.com/med1245/Arabica/blob/main/build/MyCimaProvider.cs3",
     "name": "MyCimaProvider"
 },
 {
@@ -55,7 +55,7 @@
     ],
     "version": 5,
     "internalName": "FajerShowProvider",
-    "url": "https://github.com/med1245/Arabica/blob/build/build/FajerShowProvider.cs3",
+    "url": "https://github.com/med1245/Arabica/blob/main/build/FajerShowProvider.cs3",
     "name": "FajerShowProvider"
 },
 {
@@ -73,7 +73,7 @@
     ],
     "version": 5,
     "internalName": "AnimeiatProvider",
-    "url": "https://github.com/med1245/Arabica/blob/build/build/AnimeiatProvider.cs3",
+    "url": "https://github.com/med1245/Arabica/blob/main/build/AnimeiatProvider.cs3",
     "name": "AnimeiatProvider"
 },
 {
@@ -92,7 +92,7 @@
     ],
     "version": 11,
     "internalName": "ArabSeedProvider",
-    "url": "https://github.com/med1245/Arabica/blob/build/build/ArabSeedProvider.cs3",
+    "url": "https://github.com/med1245/Arabica/blob/main/build/ArabSeedProvider.cs3",
     "name": "ArabSeedProvider"
 },
 {
@@ -112,7 +112,7 @@
     ],
     "version": 5,
     "internalName": "AnimeBlkomProvider",
-    "url": "https://github.com/med1245/Arabica/blob/build/build/AnimeBlkomProvider.cs3",
+    "url": "https://github.com/med1245/Arabica/blob/main/build/AnimeBlkomProvider.cs3",
     "name": "AnimeBlkomProvider"
 },
 {
@@ -131,7 +131,7 @@
     ],
     "version": 3,
     "internalName": "ShoffreeProvider",
-    "url": "https://github.com/med1245/Arabica/blob/build/build/ShoffreeProvider.cs3",
+    "url": "https://github.com/med1245/Arabica/blob/main/build/ShoffreeProvider.cs3",
     "name": "ShoffreeProvider"
 },
     {
@@ -150,7 +150,7 @@
         ],
         "version": 6,
         "internalName": "SagaProvider",
-        "url": "https://github.com/med1245/Arabica/blob/build/build/SagaProvider.cs3",
+        "url": "https://github.com/med1245/Arabica/blob/main/build/SagaProvider.cs3",
         "name": "SagaProvider"
     },
     {
@@ -169,7 +169,7 @@
         ],
         "version": 6,
         "internalName": "ToktokProvider",
-        "url": "https://github.com/med1245/Arabica/blob/build/build/Toktok.cs3",
+        "url": "https://github.com/med1245/Arabica/blob/main/build/Toktok.cs3",
         "name": "ToktokProvider"
     },
     {
@@ -188,7 +188,7 @@
         ],
         "version": 6,
         "internalName": "Cima4uProvider",
-        "url": "https://github.com/med1245/Arabica/blob/build/build/Cima4u.cs3",
+        "url": "https://github.com/med1245/Arabica/blob/main/build/Cima4u.cs3",
         "name": "Cima4uProvider"
     },
     {
@@ -207,7 +207,7 @@
         ],
         "version": 1,
         "internalName": "ArabLionzProvider",
-        "url": "https://github.com/med1245/Arabica/blob/build/build/ArabLionz.cs3",
+        "url": "https://github.com/med1245/Arabica/blob/main/build/ArabLionz.cs3",
         "name": "ArabLionzProvider"
     },
     {
@@ -228,7 +228,7 @@
         "version": 5,
         "internalName": "Anime4upPack",
         "description": "This pack contains Anime4up and Witanime Both Revamped by med1245",
-        "url": "https://github.com/med1245/Arabica/blob/build/build/Anime4upPack.cs3",
+        "url": "https://github.com/med1245/Arabica/blob/main/build/Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
     {
@@ -247,7 +247,7 @@
         "version": 3,
         "internalName": "TvLive",
         "description": "Sport Live Stream Filtered NSFW 'SO HALAL MODE'",
-        "url": "https://github.com/med1245/Arabica/blob/build/build/Dlhd.cs3",
+        "url": "https://github.com/med1245/Arabica/blob/main/build/Dlhd.cs3",
         "name": "TvLive"
     },
     {
@@ -267,7 +267,7 @@
         ],
         "version": 4,
         "internalName": "EgyDeadProvider",
-        "url": "https://github.com/med1245/Arabica/blob/build/build/EgyDeadProvider.cs3",
+        "url": "https://github.com/med1245/Arabica/blob/main/build/EgyDeadProvider.cs3",
         "name": "EgyDeadProvider"
     },
     {
@@ -287,7 +287,7 @@
         ],
         "version": 4,
         "internalName": "animezidProvider",
-        "url": "https://github.com/med1245/Arabica/blob/build/build/animezidProvider.cs3",
+        "url": "https://github.com/med1245/Arabica/blob/main/build/animezidProvider.cs3",
         "name": "animezidProvider"
     }
 ]
